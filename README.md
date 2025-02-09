@@ -18,7 +18,7 @@ This script allows you to download audio from YouTube videos and convert them in
 - [yt-dlp](https://github.com/yt-dlp/yt-dlp) (a YouTube video downloader)
 - [FFmpeg](https://ffmpeg.org/) (for audio conversion)
 
-You can install the required dependencies using pip or by visiting the link above:
+You can install the required dependencies using the following commands or by visiting the link above:
 
 ```bash
 pip install yt-dlp
